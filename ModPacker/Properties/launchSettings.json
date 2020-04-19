@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ModPacker": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Christian\\Documents\\test.yml"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+C:\Users\Christian\source\repos\MapPacker\MapPacker\bin\Debug\netcoreapp3.1\MapPacker.exe
+C:\Users\Christian\source\repos\MapPacker\MapPacker\obj\Debug\netcoreapp3.1\MapPacker.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\MapPacker\MapPacker\obj\Debug\netcoreapp3.1\MapPacker.AssemblyInfoInputs.cache
+C:\Users\Christian\source\repos\MapPacker\MapPacker\obj\Debug\netcoreapp3.1\MapPacker.AssemblyInfo.cs

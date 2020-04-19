@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HV9TXoYDcY1VnA6pfAn/w8crDZoYDXPJhvJL2K3xfnEn/bHD+rGlcxOi7Ba/Vjfi1TKb30VHJAnL9NhchmekIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Christian\\source\\repos\\ModPacker\\ModPacker\\ModPacker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Christian\\.nuget\\packages\\yamldotnet\\8.1.0\\yamldotnet.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

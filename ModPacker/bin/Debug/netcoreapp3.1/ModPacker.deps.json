@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ModPacker/1.0.0": {
+        "dependencies": {
+          "YamlDotNet": "8.1.0"
+        },
+        "runtime": {
+          "ModPacker.dll": {}
+        }
+      },
+      "YamlDotNet/8.1.0": {
+        "runtime": {
+          "lib/netstandard2.1/YamlDotNet.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ModPacker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YamlDotNet/8.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U8UtsQJ7s6sHwt/4G7q6af0CuMzjPQcuS7/KuxqoLdDdMzwBilPldI0T3pUVwWYqrWfd3veokCrDyrGH/0tWAQ==",
+      "path": "yamldotnet/8.1.0",
+      "hashPath": "yamldotnet.8.1.0.nupkg.sha512"
+    }
+  }
+}

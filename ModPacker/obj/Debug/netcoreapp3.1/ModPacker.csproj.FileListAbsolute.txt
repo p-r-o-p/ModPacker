@@ -1,0 +1,15 @@
+C:\Users\Christian\source\repos\ModPacker\ModPacker\bin\Debug\netcoreapp3.1\ModPacker.exe
+C:\Users\Christian\source\repos\ModPacker\ModPacker\bin\Debug\netcoreapp3.1\ModPacker.deps.json
+C:\Users\Christian\source\repos\ModPacker\ModPacker\bin\Debug\netcoreapp3.1\ModPacker.runtimeconfig.json
+C:\Users\Christian\source\repos\ModPacker\ModPacker\bin\Debug\netcoreapp3.1\ModPacker.runtimeconfig.dev.json
+C:\Users\Christian\source\repos\ModPacker\ModPacker\bin\Debug\netcoreapp3.1\ModPacker.dll
+C:\Users\Christian\source\repos\ModPacker\ModPacker\bin\Debug\netcoreapp3.1\ModPacker.pdb
+C:\Users\Christian\source\repos\ModPacker\ModPacker\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\Christian\source\repos\ModPacker\ModPacker\obj\Debug\netcoreapp3.1\ModPacker.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\ModPacker\ModPacker\obj\Debug\netcoreapp3.1\ModPacker.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\ModPacker\ModPacker\obj\Debug\netcoreapp3.1\ModPacker.AssemblyInfoInputs.cache
+C:\Users\Christian\source\repos\ModPacker\ModPacker\obj\Debug\netcoreapp3.1\ModPacker.AssemblyInfo.cs
+C:\Users\Christian\source\repos\ModPacker\ModPacker\obj\Debug\netcoreapp3.1\ModPacker.csproj.CopyComplete
+C:\Users\Christian\source\repos\ModPacker\ModPacker\obj\Debug\netcoreapp3.1\ModPacker.dll
+C:\Users\Christian\source\repos\ModPacker\ModPacker\obj\Debug\netcoreapp3.1\ModPacker.pdb
+C:\Users\Christian\source\repos\ModPacker\ModPacker\obj\Debug\netcoreapp3.1\ModPacker.genruntimeconfig.cache

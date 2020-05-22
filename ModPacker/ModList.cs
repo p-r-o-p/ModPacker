@@ -7,5 +7,6 @@ namespace ModPacker
     {
         public string MinecraftVersion { get; set; }
         public List<string> Mods { get; set; }
+        public string PackName { get; set; }
     }
 }

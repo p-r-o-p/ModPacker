@@ -20,7 +20,7 @@ namespace ModPacker
             {
                 fileContent = File.ReadAllText(args[0]);
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 Console.WriteLine(e.Message);
                 return 1;
@@ -29,7 +29,44 @@ namespace ModPacker
             IDeserializer deserializer = new DeserializerBuilder().WithNamingConvention(CamelCaseNamingConvention.Instance).Build();
             ModList modList = deserializer.Deserialize<ModList>(fileContent);
 
-            Console.WriteLine("Hello World!");
+            ModFetcher fetcher;
+            try
+            {
+                fetcher = new ModFetcher(modList);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                return 1;
+            }
+
+            bool confirmed = fetcher.ConfirmModSelection();
+            
+            if (confirmed)
+            {
+                FileHandler files = new FileHandler(modList.PackName, fetcher.Mods);
+
+                try
+                {
+                    files.DownloadModFiles();
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                    return 1;
+                }
+
+                try
+                {
+                    files.ZipModFiles();
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                    return 1;
+                }
+            }
+
             return 0;
         }
 
